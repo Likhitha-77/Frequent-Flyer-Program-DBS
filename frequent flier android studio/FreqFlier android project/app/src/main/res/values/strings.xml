@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreqFlier</string>
+    <string name="select_passanger_id">Select Passanger ID</string>
+    <string name="enter_username" />
+    <string name="username" />
+    <string name="enter_password" />
+    <string name="login" />
+    <string name="select_award">Select award</string>
+</resources>
